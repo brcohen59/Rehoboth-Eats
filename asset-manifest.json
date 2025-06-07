@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rehoboth-Eats/static/css/main.707b76a4.css",
+    "main.js": "/Rehoboth-Eats/static/js/main.1e70b336.js",
+    "static/js/453.07a3a364.chunk.js": "/Rehoboth-Eats/static/js/453.07a3a364.chunk.js",
+    "index.html": "/Rehoboth-Eats/index.html",
+    "main.707b76a4.css.map": "/Rehoboth-Eats/static/css/main.707b76a4.css.map",
+    "main.1e70b336.js.map": "/Rehoboth-Eats/static/js/main.1e70b336.js.map",
+    "453.07a3a364.chunk.js.map": "/Rehoboth-Eats/static/js/453.07a3a364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.707b76a4.css",
+    "static/js/main.1e70b336.js"
+  ]
+}
