@@ -1,138 +1,73 @@
-Name,Cuisine / Type,Google Rating,ImageURL
-A2 Wine Bar,Wine Bar (Bar-only),5,https://s3-media3.fl.yelpcdn.com/bphoto/O9uLa0ii4tsK4KJyKtZZuQ/o.jpg
-Eddie’s Sports Bar,Sports Bar (Bar-only),4.1,https://s3-media2.fl.yelpcdn.com/bphoto/ZayHhBj6vSbxjSk_a33nAw/o.jpg
-Fogbird,Cocktail Bar (Bar-only),4.8,https://s3-media1.fl.yelpcdn.com/bphoto/o7SBhdniI7YCXqbZzSm6Dg/o.jpg
-McGovern’s Bar,Irish Pub (Bar-only),4.3,https://s3-media3.fl.yelpcdn.com/bphoto/6bYpbDhhQpnL5FuvAvQTeg/o.jpg
-Mortar & Pestle,Cocktail Bar (Bar-only inside Curry Up Now),4.5,https://s3-media2.fl.yelpcdn.com/bphoto/F2j9P67tmkCfilqnnTbz6Q/o.jpg
-O’Neill’s Irish Pub,Irish Pub (Bar-only),4.4,https://s3-media4.fl.yelpcdn.com/bphoto/sWB97Q8vleHzM859X2Fh5g/o.jpg
-Sky Lounge,Lounge (Bar-only),3.8,https://s3-media3.fl.yelpcdn.com/bphoto/zTIdJ2q8u1r_y7GU8gN2YA/o.jpg
-Wunderbar,Speakeasy Cocktail Bar (Bar-only),4.3,https://s3-media3.fl.yelpcdn.com/bphoto/hbFXlpKMoFGNpD9wga9Q3Q/o.jpg
-Tiger Tea & Juice,Bubble Tea Shop (Boba),4.2,https://s3-media3.fl.yelpcdn.com/bphoto/giax4mIzmD4x_nmjaM6Gjw/o.jpg
-Heeretea,Bubble Tea Shop (Boba),4,https://s3-media2.fl.yelpcdn.com/bphoto/s0eB-mpTYCbSwbHpyT7Qkw/o.jpg
-Sharetea,Bubble Tea Shop (Boba),4.1,https://s3-media2.fl.yelpcdn.com/bphoto/9_oVOp0t4d4JNifbzl-ezA/o.jpg
-Shuyi Grass Jelly & Tea,Bubble Tea Shop (Boba),4.5,https://s3-media1.fl.yelpcdn.com/bphoto/W0hxdvU9KwhnOsx51vs5fQ/o.jpg
-Sweet Moment,Taiwanese Snack & Boba Cafe,4.7,https://s3-media4.fl.yelpcdn.com/bphoto/WbmbktaJqksdCe_NwiBRWA/o.jpg
-Teaspoon,Bubble Tea Shop (Boba),4.4,https://s3-media1.fl.yelpcdn.com/bphoto/W7VD1cEsbLodRnN9wFzPSA/o.jpg
-TP Tea,Bubble Tea Shop (Boba),4.4,https://s3-media4.fl.yelpcdn.com/bphoto/THB1g110vGHIs0q7eZMJ4g/o.jpg
-Urban Ritual,Bubble Tea Cafe (Boba),4,https://s3-media4.fl.yelpcdn.com/bphoto/bg0GRjU4ZmfRoG5usf1U2w/o.jpg
-Yi Fang Tea,Bubble Tea Shop (Boba),4.3,https://s3-media1.fl.yelpcdn.com/bphoto/OJF-wAWiOue0xwFMKcNWgA/o.jpg
-Boba Bless,Bubble Tea Shop (Boba),5,https://s3-media3.fl.yelpcdn.com/bphoto/nX6elBrKQt-iK4vIWi2i9Q/o.jpg
-Avocado Toast,Breakfast & Brunch Café,4.4,https://s3-media2.fl.yelpcdn.com/bphoto/Clf2PzTPGvqZh2KQG8BdUA/o.jpg
-Bay Watch Restaurant,Breakfast & Brunch Diner,4.3,https://s3-media4.fl.yelpcdn.com/bphoto/-2q8AgIGhBox00Hi2bAt9A/o.jpg
-Fiero Caffe,"Breakfast, Brunch & Coffee",4.5,https://s3-media2.fl.yelpcdn.com/bphoto/N5S0tZCB7Z29Eji-kk0Yrg/o.jpg
-Foreigner Café,Breakfast & Brunch (European-inspired),4.7,https://s3-media1.fl.yelpcdn.com/bphoto/Q28XblJ2YIleLkuyYSS9EQ/o.jpg
-Noah’s NY Bagels,Bagel Shop (Breakfast & Brunch),4.2,https://s3-media1.fl.yelpcdn.com/bphoto/CEguaL79SCtNnWhOSFW2rg/o.jpg
-Ike’s Place,Sandwiches & Burgers,4.6,https://s3-media3.fl.yelpcdn.com/bphoto/L0h4I3PUfnRD9Hjjp9QlLA/o.jpg
-Jeffrey’s Hamburgers,Diner – Burgers & Sandwiches,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/i6aZSYbxjRg_tssY2g96_Q/o.jpg
-3 Bees Coffee,Coffee Shop,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/OPoNMCmE17Eip21jdXU32Q/o.jpg
-Backhaus,Bakery & Café (German),4.7,https://s3-media3.fl.yelpcdn.com/bphoto/zoFhjCqmbX1zaoT5ljur8w/o.jpg
-Bliss on Tap (Baking Arts),Bakery & Coffee Shop,5,https://s3-media2.fl.yelpcdn.com/bphoto/7A4bvXBj-cm48FXdQD4EtA/o.jpg
-Blue Bottle Coffee,Coffee Shop (Specialty),4.4,https://s3-media1.fl.yelpcdn.com/bphoto/8gTSPjJMWbR-_lJIZ-llNg/o.jpg
-Donut Delite,Donuts & Coffee,4.4,https://s3-media1.fl.yelpcdn.com/bphoto/YyDQPdl4b3xYeWuYGRGuNw/o.jpg
-Paris Baguette,Bakery & Café,4.4,https://s3-media1.fl.yelpcdn.com/bphoto/YYi309qOM0fxCqSlD57CUQ/o.jpg
-Peet’s Coffee,Coffee Shop (Specialty),4.3,https://s3-media4.fl.yelpcdn.com/bphoto/RFp-U47Hbe_lKJtSQ2dnGw/o.jpg
-Philz Coffee,Coffee Shop (Specialty),4.3,https://s3-media2.fl.yelpcdn.com/bphoto/eeBLRJU6lcLSQNVfwg1Gmw/o.jpg
-Starbucks,Coffee Shop (Chain),3.8,https://s3-media3.fl.yelpcdn.com/bphoto/dBbqNaZQYDX-LNecyKAlDg/o.jpg
-Tianfu Restaurant,Chinese – Sichuan,4.1,https://s3-media2.fl.yelpcdn.com/bphoto/pMruVAXy2W9kfLi3Q-LgJQ/o.jpg
-Dough Zone Dumpling House,Chinese – Dumplings & Noodles,4.1,https://s3-media4.fl.yelpcdn.com/bphoto/AuCZZ3JQMul1ZOqM_E6asw/o.jpg
-Happy Lamb Hot Pot,Chinese – Hot Pot,4.3,https://s3-media1.fl.yelpcdn.com/bphoto/PFPAjPm6ndyHmG66cwmGOA/o.jpg
-Liuyishou Hot Pot,Chinese – Hot Pot,4,https://s3-media4.fl.yelpcdn.com/bphoto/MlICoftZnHWnYN-LwOUPrQ/o.jpg
-Ox 9 Lanzhou Noodles,Chinese – Lanzhou Hand-Pulled Noodles,4,https://s3-media3.fl.yelpcdn.com/bphoto/YtbOXA6b0RK7Yz2pJBE1qg/o.jpg
-Superstar Seafood Dim Sum,Chinese – Cantonese (Dim Sum),4,https://s3-media2.fl.yelpcdn.com/bphoto/aXOHMoq-eaSkSVAF69ePwg/o.jpg
-Taste of Shao Xian,Chinese – Fujianese Snacks,4.2,https://s3-media2.fl.yelpcdn.com/bphoto/tzrRGF3NMsGhiQ_RTaRvqA/o.jpg
-Zhangliang Malatang,Chinese – Mala Soup,4.2,https://s3-media1.fl.yelpcdn.com/bphoto/9RKmLeZnUVSrQdL4up8MaA/o.jpg
-Ten Seconds Yunnan,Chinese – Yunnan Rice Noodles,4,https://s3-media1.fl.yelpcdn.com/bphoto/BfriNnFkp-Z6h03PYy7B-Q/o.jpg
-Fish with You,Chinese – Sichuan (Malatang bowls),4.3,https://s3-media3.fl.yelpcdn.com/bphoto/ebAPZCVRPq1CejlnP7-r5g/o.jpg
-Malatown,Chinese – Sichuan (Malatang bowls),4.3,https://s3-media1.fl.yelpcdn.com/bphoto/1FujtIG8cwkpwo3t8-wIOg/o.jpg
-Tang Bar,Chinese – Modern Malatang & Bar,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/YASEydPAaB_oDwBfddY7RA/o.jpg
-Central Park Bistro,Contemporary American,4.4,https://s3-media3.fl.yelpcdn.com/bphoto/fi_T3FhRSdRaTGJa6li5mw/o.jpg
-Pacific Catch,Contemporary American (Seafood),4.3,https://s3-media4.fl.yelpcdn.com/bphoto/CsmL28_C7rfFwBh3M5pVZw/o.jpg
-Swing Shift,Contemporary American (Cal-American),4,https://s3-media2.fl.yelpcdn.com/bphoto/1XJKOSt4a01dSgRQro6Kfg/o.jpg
-The Barrel Bistro & Wine Bar,Contemporary American (Wine Bistro),4.4,https://s3-media2.fl.yelpcdn.com/bphoto/oB1DL1-xH1o0zy9C1sK5YA/o.jpg
-Wursthall,Contemporary American (German Beer Hall),4.4,https://s3-media3.fl.yelpcdn.com/bphoto/kiJX7qs6VAbHA-hgL0zSSw/o.jpg
-Antoine’s Cookie Shop,Dessert – Cookies,4.7,https://s3-media2.fl.yelpcdn.com/bphoto/JCLIHdPAaCsLLIBzLMGBlA/o.jpg
-Baskin-Robbins,Dessert – Ice Cream Parlor (Chain),4,https://s3-media4.fl.yelpcdn.com/bphoto/eQjH8APyCl3_XZszabe-UA/o.jpg
-Cold Stone Creamery,Dessert – Ice Cream (Custom),3.9,https://s3-media2.fl.yelpcdn.com/bphoto/xymXhgAtRjpUOaeToA9h_A/o.jpg
-Icicles,Dessert – Rolled Ice Cream,4.7,https://s3-media1.fl.yelpcdn.com/bphoto/bOPWzpfmhl4qzpaePVMNkQ/o.jpg
-LuluYum,Dessert – Frozen Yogurt & Snacks,4.4,https://s3-media3.fl.yelpcdn.com/bphoto/pMksSQviurrWVkHofAjzrg/o.jpg
-Meet Fresh,Dessert – Taiwanese Sweets,4.4,https://s3-media3.fl.yelpcdn.com/bphoto/Ge9rMI2hyNHrOWXmx1SY0g/o.jpg
-Simply Cake,Dessert – Bakery (Cakes),5,https://s3-media1.fl.yelpcdn.com/bphoto/hWKP2th2iSJaygELL3UtPA/o.jpg
-Snacks Antojitos Mexicanos,Dessert – Mexican Snacks & Sweets,4.3,https://s3-media4.fl.yelpcdn.com/bphoto/UCruO7qJ2HINqADn8mwk9w/o.jpg
-SomiSomi,Dessert – Korean Soft Serve & Taiyaki,4.7,https://s3-media2.fl.yelpcdn.com/bphoto/PlSoRO7iGrX1P1hIwi2hqw/o.jpg
-Tong Sui,Dessert – Hong Kong Desserts,4.7,https://s3-media2.fl.yelpcdn.com/bphoto/LylnqA1Yi8Sxzs7q2-BUYw/o.jpg
-TinyB Chocolate,Dessert – Chocolate Shop,5,https://s3-media2.fl.yelpcdn.com/bphoto/uLW_qpFxFg4wQPxIzswzlw/o.jpg
-Fire Wings,Fast Food – Chicken Wings,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/SI6zKHUimV4s3PPtL54kAA/o.jpg
-Jack in the Box,Fast Food – Burgers (Chain),3.8,https://s3-media2.fl.yelpcdn.com/bphoto/UR6jXVojmd8dXiRTpaJlJA/o.jpg
-Potato Guys,Fast Food – Fries & Snacks,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/lDGF_UqcpeWQ1mYiqdtm1w/o.jpg
-Taco Bell,Fast Food – Tacos (Chain),3.9,https://s3-media2.fl.yelpcdn.com/bphoto/rDvH1l3vJCU0LBxSZo67ug/o.jpg
-Macho Burger,Fast Food – Burgers,4,https://s3-media1.fl.yelpcdn.com/bphoto/WsiYrxJmNsVl1U2BGWDP6w/o.jpg
-Deja Vu Organic Juice Bar,Healthy Fare – Juice Bar,5,https://s3-media2.fl.yelpcdn.com/bphoto/yD7bSDcZj45phbEc2aacww/o.jpg
-Earthbar,Healthy Fare – Smoothies & Acai,4.4,https://s3-media1.fl.yelpcdn.com/bphoto/igqxiiAZS0MMtowHtCdeaw/o.jpg
-Jamba,Healthy Fare – Smoothies (Chain),4.3,https://s3-media3.fl.yelpcdn.com/bphoto/twNL6q1RrCULI_uEDMgPlQ/o.jpg
-Nutricion SR,Healthy Fare – Smoothie & Health Drinks,4.7,https://s3-media2.fl.yelpcdn.com/bphoto/ZD1QNJjDtrxtBpm_obIoYA/o.jpg
-Sweetgreen,Healthy Fare – Salads & Grain Bowls,4.3,https://s3-media4.fl.yelpcdn.com/bphoto/jqkM1FIwGN1NQSPyh6eiHA/o.jpg
-Clay Oven,Indian,4.3,https://s3-media2.fl.yelpcdn.com/bphoto/VK-T41zAt_JFgs_lFgUNPg/o.jpg
-Curry Up Now,Indian Fusion (Fast-casual),4.2,https://s3-media1.fl.yelpcdn.com/bphoto/llFm0kM0dmhSdj-BmiLH1g/o.jpg
-Pausa Bar & Cookery,Italian (Upscale),4.5,https://s3-media2.fl.yelpcdn.com/bphoto/3oPtBAuYI83WIEonRDvcRA/o.jpg
-Rise Woodfire,Italian (Wood-fired Pizza & Grill),4.4,https://s3-media1.fl.yelpcdn.com/bphoto/ycRYV2REjYCJPQ6msDXHYQ/o.jpg
-Sapore Express,Italian (Quick-service),4,https://s3-media2.fl.yelpcdn.com/bphoto/HvtotllTpj1uB7QkAgeDIg/o.jpg
-Tomatina,Italian (Casual),4.3,https://s3-media4.fl.yelpcdn.com/bphoto/DSdObK1nunY8JA7_8h_Eaw/o.jpg
-Vespucci Ristorante,Italian (Fine Dining),4.3,https://s3-media3.fl.yelpcdn.com/bphoto/VWhMwcejMpFdSj-RZbz6HA/o.jpg
-DASH Japanese Tapas,Japanese (Izakaya & Sushi),4.5,https://s3-media2.fl.yelpcdn.com/bphoto/IBYtNIUGX1gJqnpePXebmg/o.jpg
-Gyu-Kaku Japanese BBQ,Japanese (Yakiniku),4.3,https://s3-media1.fl.yelpcdn.com/bphoto/GDaGuGZrwdvbav7TU6QdGQ/o.jpg
-Himawari,Japanese (Ramen & Izakaya),4.4,https://s3-media2.fl.yelpcdn.com/bphoto/7KxJT6Ocamq3zE0KvafyMA/o.jpg
-HiroNori Craft Ramen,Japanese (Ramen),4.5,https://s3-media1.fl.yelpcdn.com/bphoto/5KKhsOzaKQclX1zq1VK6FA/o.jpg
-Hotaru,Japanese (Sushi),4.4,https://s3-media2.fl.yelpcdn.com/bphoto/MDz44lJ5FEwJnsDyJAK7ig/o.jpg
-Izakaya Ginji,Japanese (Izakaya),4.4,https://s3-media3.fl.yelpcdn.com/bphoto/St5opDAWCio7_yvoZ81JHQ/o.jpg
-Izakaya Mai,Japanese (Izakaya),4.2,https://s3-media2.fl.yelpcdn.com/bphoto/UJoS5Dm_8r9D8O4bPZh9Zw/o.jpg
-Joy Sushi,Japanese (Sushi),4,https://s3-media4.fl.yelpcdn.com/bphoto/a4ZPbjx7J3GvfHyUq_dbQw/o.jpg
-Kajiken,Japanese (Ramen – Mazesoba),4.5,https://s3-media2.fl.yelpcdn.com/bphoto/AXlIjfgJWqI00Zhg2sbTQA/o.jpg
-Kaz Teriyaki Grill,Japanese (Teriyaki & Bowl),4,https://s3-media1.fl.yelpcdn.com/bphoto/z5D2uTVjJ0GWyDIp1G6N_Q/o.jpg
-Shabuway,Japanese (Hot Pot),4.1,https://s3-media3.fl.yelpcdn.com/bphoto/CAfHywgWXBf-9Imjk8nfzw/o.jpg
-Sozai Corner,Japanese (Sushi Bar inside market),4.3,https://s3-media1.fl.yelpcdn.com/bphoto/nzYRlaILV9tkeY5tJtFWRw/o.jpg
-Sushi Maruyama,Japanese (Sushi),4.8,https://s3-media2.fl.yelpcdn.com/bphoto/oc-U7SuXR4leIi6OVCDzvw/o.jpg
-Sushi Yoshizumi,Japanese (Omakase Sushi),5,https://s3-media2.fl.yelpcdn.com/bphoto/7RM9K74ZOZ2zSP0IhtQ26g/o.jpg
-Taishoken,Japanese (Ramen & Tsukemen),4.5,https://s3-media2.fl.yelpcdn.com/bphoto/Uq3vg4BXnAKzozp7oNX4dQ/o.jpg
-Taki Nori Handroll Bar,Japanese (Sushi Handrolls),4.5,https://s3-media2.fl.yelpcdn.com/bphoto/JVpsMnghHr141BK6Hh2TrQ/o.jpg
-Tokie’s,Japanese (Sushi),4,https://s3-media3.fl.yelpcdn.com/bphoto/eVw0GKNekWwLMSFSMYedkw/o.jpg
-Ultra Sushi,Japanese (Sushi),4.1,https://s3-media4.fl.yelpcdn.com/bphoto/nTLrPONyefQYx0lXUlIzlQ/o.jpg
-Bonchon,Korean (Fried Chicken),4.3,https://s3-media2.fl.yelpcdn.com/bphoto/rm_sd1LoKXIKkYObeAIJPw/o.jpg
-Chingu,Korean (Homestyle),4,https://s3-media3.fl.yelpcdn.com/bphoto/WIOuWi916HiQ1vVjkUnopg/o.jpg
-Daeho,Korean (Braised Beef specialty),4.2,https://s3-media2.fl.yelpcdn.com/bphoto/PHhaN-NpvqOApXAamVRDbg/o.jpg
-OLHSO Korean BBQ & Seafood,Korean (Korean BBQ & Steakhouse),4.5,https://s3-media2.fl.yelpcdn.com/bphoto/3alemae_LEUCqz7hPda-_Q/o.jpg
-La Pinata,Latin American (Salvadoran Pupusas),4.5,https://s3-media1.fl.yelpcdn.com/bphoto/C9_8poJFgwDoTd1zDSHxRg/o.jpg
-Pupusería El Salvador,Latin American (Salvadoran),4.3,https://s3-media3.fl.yelpcdn.com/bphoto/aIjmhIzIg6nfMVP_OMCJVA/o.jpg
-Amour Amour,Mediterranean (Wine Bar & Tapas),4.7,https://s3-media4.fl.yelpcdn.com/bphoto/vNv928JxHgTqIJsOjYbgzA/o.jpg
-B Street & Vine,Mediterranean (Wine Café – Bruschetta),4.4,https://s3-media1.fl.yelpcdn.com/bphoto/2tLt9KRKOQ4FBTp56V7I0Q/o.jpg
-Hummus Mediterranean,Mediterranean (Middle Eastern),4.5,https://s3-media3.fl.yelpcdn.com/bphoto/EW0SOHvmmnDJFOKISGb1LA/o.jpg
-Nick the Greek,Mediterranean (Greek Gyros),4.3,https://s3-media1.fl.yelpcdn.com/bphoto/Epk_JegAUu8R_jJe6ONj3A/o.jpg
-Sajj Mediterranean,Mediterranean (Middle Eastern),4.2,https://s3-media4.fl.yelpcdn.com/bphoto/VmnFX6Im4_9V0rdiG9y8FA/o.jpg
-Fletch’s Taqueria,Mexican (Tacos & Burritos),4.6,https://s3-media0.fl.yelpcdn.com/bphoto/7wWH85y0bO3juiscP5XL9g/o.jpg
-Las Palomas Taqueria,Mexican (Taqueria),4.4,https://s3-media4.fl.yelpcdn.com/bphoto/aWf1W9gsbx3LdPGUXeflPA/o.jpg
-Mr. Taco Man,Mexican (Taqueria),4.1,https://s3-media1.fl.yelpcdn.com/bphoto/Y759LBv2_IZWKtdTpD6H1w/o.jpg
-Pancho Villa Taqueria,Mexican (Taqueria),4.4,https://s3-media4.fl.yelpcdn.com/bphoto/-FcfAOpJ7T4OrUunqD0nJw/o.jpg
-Taquería La Cumbre,Mexican (Taqueria),4.3,https://s3-media4.fl.yelpcdn.com/bphoto/fOYkF8A-4fVjFduAbPHW_w/o.jpg
-Taquería Las Pencas 2,Mexican (Taqueria),4,https://s3-media3.fl.yelpcdn.com/bphoto/PktnbXjj_nB-EAKsGgLe2Q/o.jpg
-Taquería Los Primos,Mexican (Taqueria),4.2,https://s3-media4.fl.yelpcdn.com/bphoto/WTTUprKXnAfgZ1FMTS4NNQ/o.jpg
-Avenida,Filipino (Modern Filipino Bar & Grill),4.6,https://s3-media4.fl.yelpcdn.com/bphoto/ncJkxfKaF5IMGfv5kGgInQ/o.jpg
-Chopstix & Bento,Taiwanese (Taiwanese Café),4,https://s3-media3.fl.yelpcdn.com/bphoto/8SNhi0WFkAcwwK_D0kVfgg/o.jpg
-Izakaya Keitan,Japanese (Fusion Yakitori Grill),4.3,https://s3-media1.fl.yelpcdn.com/bphoto/z-ylgtxJO1-3VH2VZbdIQw/o.jpg
-L&L Hawaiian Barbecue,Hawaiian BBQ (Plate Lunch),4.1,https://s3-media2.fl.yelpcdn.com/bphoto/EjHCtnVf7calyksHPa3hBg/o.jpg
-Rin-Tei,Asian Fusion (Japanese & Thai),4.2,https://s3-media3.fl.yelpcdn.com/bphoto/GgGrNCOOSQ44KF2X8TeT6Q/o.jpg
-Samikcha MoMo,Nepalese/Indian (Indo-Chinese Fusion),4.5,https://s3-media3.fl.yelpcdn.com/bphoto/-Qy98AUp_8NZbb-u4qm2cg/o.jpg
-Urban Momo,Nepalese/Indian (Indo-Chinese Fusion),4.4,https://s3-media2.fl.yelpcdn.com/bphoto/Ri0Af_u7B7ql3aiOzudmPQ/o.jpg
-Sushirrito,Fusion (Sushi Burrito),4,https://s3-media3.fl.yelpcdn.com/bphoto/tqrobosyz8YUjYv3QJKfwg/o.jpg
-Amici’s East Coast Pizzeria,Pizza (NY-Style),4.3,https://s3-media3.fl.yelpcdn.com/bphoto/rnodsbgj3eV1TgAhmQYEzg/o.jpg
-Domino’s Pizza,Pizza (Delivery Chain),3.7,https://s3-media4.fl.yelpcdn.com/bphoto/jBCAZQb_Y-KiZAsthZmV8g/o.jpg
-Mountain Mike’s Pizza,Pizza (Delivery Chain),4.2,https://s3-media3.fl.yelpcdn.com/bphoto/PGNOHZx93_yvEOZtVusSfg/o.jpg
-Mr. Pizza Man,Pizza (Delivery/Takeout),4,https://s3-media3.fl.yelpcdn.com/bphoto/aM5b2dLkcUwcz3ERcSWa_Q/o.jpg
-New York Pizza,Pizza (NY-Style),4,https://s3-media2.fl.yelpcdn.com/bphoto/1qRiT0jgXkXPhMf0-dFitg/o.jpg
-North Beach Pizza,Pizza (Italian-American),4,https://s3-media3.fl.yelpcdn.com/bphoto/tSWwGZ7W_4JRGybU69fCDQ/o.jpg
-Pizza My Heart,Pizza (Slice Shop),4.5,https://s3-media2.fl.yelpcdn.com/bphoto/PTtbTtvERQKGPitOTfLG8Q/o.jpg
-Curry Pizza House,Pizza (Indian Fusion),4.3,https://s3-media1.fl.yelpcdn.com/bphoto/YwmowYnwxdn6GBy4STdU9Q/o.jpg
-Porterhouse,Steakhouse,4.4,https://s3-media2.fl.yelpcdn.com/bphoto/Z1hEYs6t_BHLFkUWqxV0nQ/o.jpg
-San Mateo Prime,Steakhouse,4.3,https://s3-media3.fl.yelpcdn.com/bphoto/uGiSZBjEl2D8qTFMFWfVQw/o.jpg
-New Thai Elephant,Thai,4.3,https://s3-media1.fl.yelpcdn.com/bphoto/AWTBY_VZw2niNpQSk5PkdA/o.jpg
-Thonglor Thai Bistro,Thai,4.1,https://s3-media2.fl.yelpcdn.com/bphoto/ymqb_DjRx8IpfGXh1IBSvQ/o.jpg
-Gao Viet Kitchen,Vietnamese (Pho & more),4.4,https://s3-media2.fl.yelpcdn.com/bphoto/xTyZeBDeNf0giRo2Ou73xw/o.jpg
-M Sandwiches Café,Vietnamese (Banh Mi & Sandwiches),4.5,https://s3-media3.fl.yelpcdn.com/bphoto/KCTPxDb_fS81GHu_6_5sKg/o.jpg
+Name,Cuisine / Type,Google Rating,ImageURL,Hours,FormattedHours,Phone,Address
+302 Social - Eatery & Barroom,American,,,,,,
+Above the Dunes,Seafood,4.3,https://s3-media0.fl.yelpcdn.com/bphoto/JHFXjgr2KHFSD9Oe4VGwdA/o.jpg,,,,
+Aqua Bar & Grill,American,,https://s3-media0.fl.yelpcdn.com/bphoto/-SKnE8OXWSbIirlM8WxRIw/o.jpg,,,,
+Baja Bob's,Mexican,3.5,https://s3-media0.fl.yelpcdn.com/bphoto/0R2xSoElOP1qC2_QIniZJw/o.jpg,,,,
+Bodhi Kitchen,Asian Fusion,,https://s3-media0.fl.yelpcdn.com/bphoto/-9JQeU6TOsOvIj63VHsOoA/o.jpg,,,,
+Breakfast Guru,Breakfast & Brunch,,https://s3-media0.fl.yelpcdn.com/bphoto/Z8gPPkGIaiow3EhyDL1yng/o.jpg,,,,
+Dogfish Head Chesapeake & Maine,Seafood,3.9,https://s3-media0.fl.yelpcdn.com/bphoto/3J2pjXGBrX7IRFpIZVdaQw/o.jpg,,,,
+Claws Seafood House,Seafood,4.2,https://s3-media0.fl.yelpcdn.com/bphoto/EHnvtP3L86XIqsLXgjbcsA/o.jpg,,,,
+DiFebo's Restaurant,Italian,,https://s3-media0.fl.yelpcdn.com/bphoto/mVrLHuTFu8aNJKtld3RCig/o.jpg,,,,
+Dogfish Head Brewings & Eats,Brewpub,,https://s3-media0.fl.yelpcdn.com/bphoto/5wAUiHJATPya4Vn0c_3SSQ/o.jpg,,,,
+Dos Locos,Mexican,,https://s3-media0.fl.yelpcdn.com/bphoto/EGhGq7Wp4E6b1k1cDq4YWA/o.jpg,,,,
+Drift Seafood & Raw Bar,Seafood,,https://s3-media0.fl.yelpcdn.com/bphoto/PZQ6h2XItDhEgTmfx9_WDg/o.jpg,,,,
+Fins Fish House & Raw Bar,Seafood,,https://s3-media0.fl.yelpcdn.com/bphoto/NqjdiFsD2VcK-_9GBMArew/o.jpg,,,,
+Freddie's Beach Bar,American,,https://s3-media0.fl.yelpcdn.com/bphoto/5eFT1KF-msHgTW48_0RRpw/o.jpg,,,,
+The Ice Cream Store,Ice Cream,,https://s3-media0.fl.yelpcdn.com/bphoto/jfUYVBNBAdoxZr_dKhsbDQ/o.jpg,,,,
+Kiwi's Tiki Hut & Kove,Bar & Grill,,,,,,
+Louie's Pizza,Pizza,,https://s3-media0.fl.yelpcdn.com/bphoto/GXfUzz_L1x8xuz4aJ-8c0g/o.jpg,,,,
+Mariachi Restaurant,Mexican,,https://s3-media0.fl.yelpcdn.com/bphoto/CQJhtcESPlkF2VQVBzocWg/o.jpg,,,,
+Purple Parrot Grill,American,,https://s3-media0.fl.yelpcdn.com/bphoto/UUP-05dBwX1WUrR920bqew/o.jpg,,,,
+The Pines,American,,https://s3-media0.fl.yelpcdn.com/bphoto/bH1H6dgZf67FIUBOlGpWvA/o.jpg,,,,
+Shorebreak Lodge,Seafood,,https://s3-media0.fl.yelpcdn.com/bphoto/1krVl6O5rUIBjNfKYqTRdA/o.jpg,,,,
+Sirocco,Mediterranean,,https://s3-media0.fl.yelpcdn.com/bphoto/jrPP13KDDFAGQmzRMtH0vQ/o.jpg,,,,
+Snyder's Candy,Candy Store,,https://s3-media0.fl.yelpcdn.com/bphoto/C2gLAokWM50U8TBt3OuyUw/o.jpg,,,,
+Somewhere (Restaurant),Caribbean,,https://s3-media0.fl.yelpcdn.com/bphoto/OP3zWAzj7k7FLydp_l6qYw/o.jpg,,,,
+Victoria's Restaurant,American,,https://s3-media0.fl.yelpcdn.com/bphoto/fAgkrYmDi8P3fRhOHmFeuQ/o.jpg,,,,
+Archie's Ice Cream,Ice Cream,3.7,https://s3-media0.fl.yelpcdn.com/bphoto/oZ2mT3DCL3z8Y0MUHr9NJg/o.jpg,,,,
+Aroma Mediterranean Cuisine,Mediterranean,,https://s3-media0.fl.yelpcdn.com/bphoto/BCe-InKf0JSJjOU0BPzS5w/o.jpg,,,,
+Back Porch Café,American (Fine Dining),,https://s3-media0.fl.yelpcdn.com/bphoto/MGRcEebZm1BEl-MKl2UCKQ/o.jpg,,,,
+Blue Moon,American,,https://s3-media0.fl.yelpcdn.com/bphoto/xXHVTv-YnH1KxpvrcyNdJg/o.jpg,,,,
+Cafe Papillon,French Bakery,,https://s3-media0.fl.yelpcdn.com/bphoto/vRA67E7oOSBMs9OMAjIlog/o.jpg,,,,
+Coffee Mill,Coffee Shop,,https://s3-media0.fl.yelpcdn.com/bphoto/AuLEc8-uBxQtW3Ta1unlYA/o.jpg,,,,
+Downtown Blues (Bethany Blues),BBQ,,https://s3-media0.fl.yelpcdn.com/bphoto/sya077stuoAiS8MOeDx7CA/o.jpg,,,,
+Federal Bistro (Federal Fritter),American (Snacks),,https://s3-media0.fl.yelpcdn.com/bphoto/U6OIS7HMMtnFfG9VhL8OhA/o.jpg,,,,
+Go Fish,British,,https://s3-media0.fl.yelpcdn.com/bphoto/MpDC5rMAEo-l8f2LJLxIeg/o.jpg,,,,
+Kaan's Bakery,Bakery,,https://s3-media0.fl.yelpcdn.com/bphoto/RKbYOYMtesMhsq_usZlmTQ/o.jpg,,,,
+Lupo Italian Kitchen,Italian,,https://s3-media0.fl.yelpcdn.com/bphoto/SO7iAyDm_EqLLm_rM-ZX5g/o.jpg,,,,
+Rehoboth Ale House,Bar,,https://s3-media0.fl.yelpcdn.com/bphoto/vPtEMokaBSnwyixSlMtCtg/o.jpg,,,,
+Rigby's Bar & Grill,American,,https://s3-media0.fl.yelpcdn.com/bphoto/TZet53jK0F-6JR_wo093XQ/o.jpg,,,,
+Sazio,Italian,,https://s3-media0.fl.yelpcdn.com/bphoto/_aWd2YpZgpWuMVeN3TgbtA/o.jpg,,,,
+Stingray Restaurant,Japanese,,https://s3-media0.fl.yelpcdn.com/bphoto/GJG0KhHjlWCPfdWUjb-j7A/o.jpg,,,,
+Sunny Bay Cafe,Breakfast,,https://s3-media0.fl.yelpcdn.com/bphoto/ky9CW2MFOP4OiKdKPe8COA/o.jpg,,,,
+The Mill Creamery,Ice Cream,,https://s3-media0.fl.yelpcdn.com/bphoto/jfUYVBNBAdoxZr_dKhsbDQ/o.jpg,,,,
+Tiki Jac's Street Food & Brews,American (Street Food),,https://s3-media0.fl.yelpcdn.com/bphoto/WiJZc1CoOf8zzBHBNh-1fA/o.jpg,,,,
+Uncle David's Ice Cream,Ice Cream,,https://s3-media0.fl.yelpcdn.com/bphoto/JXz7XPclqIAagaIXeVYa4w/o.jpg,,,,
+Arena's Deli & Bar,Deli,,https://s3-media0.fl.yelpcdn.com/bphoto/rIDyn7s7Vtc_fjwf5hN5-Q/o.jpg,,,,
+Ava's Pizzeria & Wine Bar,Pizza,,https://s3-media0.fl.yelpcdn.com/bphoto/I8v4MM7G2qcyg9oVuoI9vw/o.jpg,,,,
+Blackwall at the Beach,American,,https://s3-media0.fl.yelpcdn.com/bphoto/mA-1sUvMc5mc6y16uciwXw/o.jpg,,,,
+Cafe Azafran,Mediterranean,,https://s3-media0.fl.yelpcdn.com/bphoto/F8ly7-rnnAZJ-47c6z2pKw/o.jpg,,,,
+Candy Kitchen,Candy,,https://s3-media0.fl.yelpcdn.com/bphoto/6rek_FFAFGiop6OOZbuWnQ/o.jpg,,,,
+Double Dippers,Ice Cream,,https://s3-media0.fl.yelpcdn.com/bphoto/rbS01lllqiKOcJAtatahag/o.jpg,,,,
+Egg,Breakfast & Lunch,,https://s3-media0.fl.yelpcdn.com/bphoto/qKpbcXjl3TbDgadeXXo2jQ/o.jpg,,,,
+Frank & Louie's Italian Specialties,Italian Deli,,https://s3-media0.fl.yelpcdn.com/bphoto/1AaNF5D7TRwDB8WRBbLxmA/o.jpg,,,,
+Indigo,Indian,,https://s3-media0.fl.yelpcdn.com/bphoto/hGmmWj5L1eS3PjakxxEWFQ/o.jpg,,,,
+Kilwin's Chocolates & Ice Cream,Chocolate,,https://s3-media0.fl.yelpcdn.com/bphoto/Lntw1EA3-6QHyKsGX22BVQ/o.jpg,,,,
+Nalu Surf Bar & Grill,Pacific Island (Hawaiian),,https://s3-media0.fl.yelpcdn.com/bphoto/w_MdsllSDilZyZNW-dkMtw/o.jpg,,,,
+Rehoboth Candy Company,Candy,,https://s3-media0.fl.yelpcdn.com/bphoto/C2gLAokWM50U8TBt3OuyUw/o.jpg,,,,
+Robin Hood Restaurant,Diner (American),,https://s3-media0.fl.yelpcdn.com/bphoto/S-4nbeL9g0OCLACgQLW4wg/o.jpg,,,,
+Summer House,American,,https://s3-media0.fl.yelpcdn.com/bphoto/TwOIsqmVRNeZvjCaCaMbTw/o.jpg,,,,
+The Cultured Pearl Restaurant & Sushi Bar,Japanese,,https://s3-media0.fl.yelpcdn.com/bphoto/pAXVmxRGdTFSROlmvSfs4A/o.jpg,,,,
+Theo's Steaks,Sides & Spirits,,https://s3-media0.fl.yelpcdn.com/bphoto/S4EN-ygiT8GO3xkOCoTAMA/o.jpg,,,,
+Twist Kitchen & Juice Bar,Juice Bar,,https://s3-media0.fl.yelpcdn.com/bphoto/-6FReMmWpr2rnJEe4E574Q/o.jpg,,,,
+Zogg's Raw Bar & Grill,Seafood,,https://s3-media0.fl.yelpcdn.com/bphoto/vWhu5bdxoc3mgAa2xiJJpg/o.jpg,,,,
+Henlopen City Oyster House,Seafood,4.7,https://s3-media0.fl.yelpcdn.com/bphoto/AUlZlkkYC7QbKWgZnig8UA/o.jpg,,,,
+Salt Air Kitchen & Bar,American,,https://s3-media0.fl.yelpcdn.com/bphoto/8O22K4l9upittD0fvm0k6A/o.jpg,,,,
+Confucius Chinese Cuisine,Chinese,,https://s3-media0.fl.yelpcdn.com/bphoto/moQiFKxwsk11N86r3ayJtw/o.jpg,,,,
+Gus & Gus Place,Burgers,,https://s3-media0.fl.yelpcdn.com/bphoto/z4RbigLzveMJtLhs15A7GQ/o.jpg,,,,
+Semra's Mediterranean Grill,Mediterranean,,https://s3-media0.fl.yelpcdn.com/bphoto/eBeYTiqcgywtFglb5nlQwA/o.jpg,,,,
+La Fable,French,4.8,https://s3-media0.fl.yelpcdn.com/bphoto/oa_bZDx2pGWded-FuWFaZQ/o.jpg,,,,
+Grotto Pizza,Pizza,4.1,https://s3-media0.fl.yelpcdn.com/bphoto/lIwQ4O1k4vmRhWnxgP_i2w/o.jpg,,,,
+Obie's By The Sea,American,,https://s3-media0.fl.yelpcdn.com/bphoto/ayZLuo-AYE81fPYMHt6Frw/o.jpg,,,,
+Eden,American,,https://s3-media0.fl.yelpcdn.com/bphoto/K4nZV707gAwKSeqtQ6i3UA/o.jpg,,,,
+The Blue Hen,American,4.5,https://s3-media0.fl.yelpcdn.com/bphoto/YhixnqG7-KxfkoSvoltE8A/o.jpg,,,,
