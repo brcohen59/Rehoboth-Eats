@@ -4,12 +4,12 @@ const axios = require("axios");
 const Papa = require("papaparse");
 
 const API_KEY = process.env.YELP_API_KEY;
-const INPUT_CSV = "./public/data/restaurants.csv"; // adjust path if needed
+const INPUT_CSV = "./public/data/rehoboth_restaurants.csv"; // adjust path if needed
 const OUTPUT_CSV = "./restaurants_with_images.csv";
 
 async function fetchYelpImage(restaurant) {
   const name = restaurant["Name"];
-  const location = "San Mateo, CA"; // You can make this column-based if needed
+  const location = "Rehoboth Beach, DE"; // You can make this column-based if needed
 
   try {
     const response = await axios.get("https://api.yelp.com/v3/businesses/search", {

@@ -1,8 +1,8 @@
 {
-  "name": "new-san-mateo-eats",
+  "name": "rehoboth-eats-local",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brcohen59.github.io/San-Mateo-Eats/",
+  "homepage": "https://brcohen59.github.io/Rehoboth-Eats/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

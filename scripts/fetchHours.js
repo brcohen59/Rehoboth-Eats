@@ -34,7 +34,7 @@ fs.createReadStream('public/data/restaurants_with_images.csv')
             },
             params: {
               term: restaurant.Name,
-              location: 'San Mateo, CA',
+              location: 'Rehoboth Beach, DE',
               limit: 1
             }
           }

@@ -118,7 +118,7 @@ function App() {
   }, [restaurants, sortKey, sortOrder, filter, visitedMap, searchTerm]);
 
   return (
-    <Router basename="/San-Mateo-Eats">
+    <Router basename="/Rehoboth-Eats">
       <Routes>
         <Route
           path="/"
@@ -127,7 +127,7 @@ function App() {
               {/* Header */}
               <header className="bg-gradient-to-r from-gray-900 to-gray-700 text-white shadow-lg">
                 <div className="container mx-auto px-4 py-6">
-                  <h1 className="text-3xl font-bold">San Mateo Eats</h1>
+                  <h1 className="text-3xl font-bold">Rehoboth Beach Eats</h1>
                   <p className="text-gray-300 opacity-90">Discover and track local restaurants</p>
                 </div>
 
@@ -298,7 +298,7 @@ function App() {
               
               <footer className="mt-12 bg-gray-800 text-white py-6">
                 <div className="container mx-auto px-4 text-center text-sm">
-                  <p>© {new Date().getFullYear()} San Mateo Eats • Made with React & Tailwind</p>
+                  <p>© {new Date().getFullYear()} Rehoboth Beach Eats • Made with React & Tailwind</p>
                 </div>
               </footer>
             </div>

@@ -294,7 +294,7 @@ function RestaurantDetails({ restaurants }) {
                             
               <div className="flex gap-3">
                 <a 
-                  href={`https://www.google.com/maps/search/${encodeURIComponent(restaurant["Name"] + " San Mateo")}`}
+                  href={`https://www.google.com/maps/search/${encodeURIComponent(restaurant["Name"] + " Rehoboth Beach")}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 flex items-center justify-center px-4 py-3 border-2 border-gray-800 text-gray-800 rounded-md hover:bg-gray-800 hover:text-white transition"
@@ -307,7 +307,7 @@ function RestaurantDetails({ restaurants }) {
                 </a>
                 
                 <a 
-                  href={`https://www.yelp.com/search?find_desc=${encodeURIComponent(restaurant["Name"])}&find_loc=San+Mateo%2C+CA`}
+                  href={`https://www.yelp.com/search?find_desc=${encodeURIComponent(restaurant["Name"])}&find_loc=Rehoboth+Beach%2C+CA`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 flex items-center justify-center px-4 py-3 border-2 border-gray-800 text-gray-800 rounded-md hover:bg-gray-800 hover:text-white transition"
@@ -325,7 +325,7 @@ function RestaurantDetails({ restaurants }) {
       
       <footer className="mt-12 bg-gray-800 text-white py-6">
         <div className="container mx-auto px-4 text-center text-sm">
-          <p>© {new Date().getFullYear()} San Mateo Eats • Made with React & Tailwind</p>
+          <p>© {new Date().getFullYear()} Rehoboth Beach Eats • Made with React & Tailwind</p>
         </div>
       </footer>
     </div>
